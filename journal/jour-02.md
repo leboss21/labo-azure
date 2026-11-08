@@ -6,7 +6,7 @@ Terminer le parcours 1 « Décrire les concepts du cloud ».
 
 ## Ce que j'ai fait
 - Module 2 « Avantages des services cloud » terminé (quiz : 1/3, à réviser)
-- Module 3 « Types de services cloud » terminé
+- Module 3 « Types de services cloud » terminé (quiz : 2/3, revoir PaaS vs SaaS)
 
 ## Ce que j'ai retenu
 - SLA : un engagement de disponibilité avec des crédits, pas une garantie
